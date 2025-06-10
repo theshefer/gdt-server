@@ -2,7 +2,7 @@
 
 `gdt-server` is server application that implements Rest-API of the openLCA IPC
 protocol. See the [openLCA IPC
-documentation](https://greendelta.github.io/openLCA-ApiDoc/ipc/) for more
+documentation](https://greendelta.github.io/openLCA-ApiDoc/intro.html) for more
 information and examples.
 
 ## Running as Docker container
